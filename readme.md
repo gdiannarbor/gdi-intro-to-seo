@@ -1,10 +1,10 @@
-> Please read our slide creation guidelines in [the wiki](https://github.com/girldevelopit/gdi-slides-template/wiki). Then, delete this banner and add the specifics about your class below.
+# Introduction to Search Engine Optimization (SEO)
 
-# Add Your Course Title Here
+Slides and materials are hosted at [http://gdibtv.github.io/gdi-intro-to-seo/](http://gdibtv.github.io/gdi-intro-to-seo/).
 
-Slides and materials are hosted at [http://example.com/](http://example.com/).
 
-## Course description
+More info coming soon.
+<!--- ## Course description
 
 Use this space for a short description of your course. We recommend using the description from your meetup event.
 
@@ -47,3 +47,4 @@ You should have:
  - Written in list form
  - Here's another one
 
+--->
